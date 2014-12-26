@@ -1,0 +1,8 @@
+http://stackoverflow.com/questions/3446540/what-is-the-difference-between-dvm-and-jvm
+
+
+
+dalvik register based, jvm stack based
+hashset red black tree 
+javap -c Main.class
+dx --dex --output="c:\temp\app.apk" "c:\temp\in.jar"

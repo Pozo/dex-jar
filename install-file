@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=taget/dex-jar-1.0.jar -DgroupId=com.epam.android -DartifactId=dex-jar -Dversion=1.0 -Dpackaging=jar
